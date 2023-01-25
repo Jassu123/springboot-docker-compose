@@ -1,0 +1,13 @@
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\exception\GlobalExceptionHandler.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\controller\UserController.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\mapper\AutoUserMapper.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\entity\User.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\exception\ErrorDetails.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\SpringbootRestfulWebservicesApplication.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\repository\UserRepository.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\mapper\UserMapper.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\dto\UserDto.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\service\impl\UserServiceImpl.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\exception\EmailAlreadyExistsException.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\exception\ResourceNotFoundException.java
+C:\Siva\LearningFullStack\Workspaces\springboot-restful-webservices\src\main\java\com\example\springboot\service\UserService.java
